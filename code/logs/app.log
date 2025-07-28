@@ -1,0 +1,15 @@
+2025-07-28 21:28:55 | INFO | config_service:load_config:40 | 成功加载配置文件: C:\Users\33486\Desktop\试验文档\code\config.toml
+2025-07-28 21:28:55 | INFO | config_service:validate_config:320 | 配置文件验证通过
+2025-07-28 21:28:55 | INFO | app.main:startup_event:94 | 应用 PDF处理服务 v0.1.0 正在启动...
+2025-07-28 21:28:55 | INFO | app.main:startup_event:95 | 服务器配置: 0.0.0.0:6677
+2025-07-28 21:28:55 | INFO | app.main:startup_event:96 | 调试模式: True
+2025-07-28 21:28:55 | INFO | app.main:startup_event:97 | API前缀: /api/v1
+2025-07-28 21:28:55 | INFO | app.main:startup_event:98 | 存储路径: .
+2025-07-28 21:29:01 | INFO | app.main:shutdown_event:103 | 应用 PDF处理服务 正在关闭...
+2025-07-28 21:29:03 | INFO | config_service:load_config:40 | 成功加载配置文件: C:\Users\33486\Desktop\试验文档\code\config.toml
+2025-07-28 21:29:03 | INFO | config_service:validate_config:320 | 配置文件验证通过
+2025-07-28 21:29:03 | INFO | app.main:startup_event:94 | 应用 PDF处理服务 v0.1.0 正在启动...
+2025-07-28 21:29:03 | INFO | app.main:startup_event:95 | 服务器配置: 0.0.0.0:6677
+2025-07-28 21:29:03 | INFO | app.main:startup_event:96 | 调试模式: True
+2025-07-28 21:29:03 | INFO | app.main:startup_event:97 | API前缀: /api/v1
+2025-07-28 21:29:03 | INFO | app.main:startup_event:98 | 存储路径: .
